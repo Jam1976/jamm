@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180404/zaq/kisspng-a-e-networks-television-channel-logo-germany-5ac59f079d5aa3.0325436915229007436445.jpg",A&E HD
 http://168.181.161.24:8000/play/a01l
-#EXTINF:-1,AMC HD
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180629/bcs/kisspng-amc-logo-television-show-graphic-design-amc-5b36b1576e7493.7682629015303109994524.jpg",AMC HD
 http://168.181.161.24:8000/play/a01m
-#EXTINF:-1,AXN HD
+#EXTINF:-1 tvg-logo="https://img1.freepng.es/20180702/pfc/kisspng-axn-television-channel-sony-channel-television-sho-axn-5b3a0ac39f5e85.1062681315305304996528.jpg",AXN HD
 http://168.181.161.24:8000/play/a007
-#EXTINF:-1,AZ click HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS58ixR_sjMcZhkDNb-l-u38y56A6KprnPx9Fc5xU99F7mvLtExLr2LV9Ztxuo_6lzyLs&usqp=CAU",AZ click HD
 http://168.181.161.24:8000/play/a01s
 #EXTINF:-1,Animal Planet HD
 http://168.181.161.24:8000/play/a01i
