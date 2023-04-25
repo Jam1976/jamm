@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180404/zaq/kisspng-a-e-networks-television-channel-logo-germany-5ac59f079d5aa3.0325436915229007436445.jpg",A&E HD
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180404/zaq/kisspng-a-e-networks-television-channel-logo-germany-5ac59f079d5aa3.0325436915229007436445.jpg",AE HD
 http://168.181.161.24:8000/play/a01l
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180629/bcs/kisspng-amc-logo-television-show-graphic-design-amc-5b36b1576e7493.7682629015303109994524.jpg",AMC HD
 http://168.181.161.24:8000/play/a01m
@@ -41,7 +41,7 @@ http://168.181.161.24:8000/play/a01r
 http://168.181.161.24:8000/play/a00o
 #EXTINF:-1,Discovery Channel HD
 http://168.181.161.24:8000/play/a018
-#EXTINF:-1,Discovery Home & Health
+#EXTINF:-1,Discovery Home  Health
 http://168.181.161.24:8000/play/a02k
 #EXTINF:-1,Discovery ID HD
 http://168.181.161.24:8000/play/a01c
