@@ -7,12 +7,20 @@ http://168.181.161.24:8000/play/a01m
 http://168.181.161.24:8000/play/a007
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS58ixR_sjMcZhkDNb-l-u38y56A6KprnPx9Fc5xU99F7mvLtExLr2LV9Ztxuo_6lzyLs&usqp=CAU",AZ click HD
 http://168.181.161.24:8000/play/a01s
+#EXTINF:-1,ATV
+http://190.187.192.89:8000/play/a08d/index.m3u8
+#EXTINF:-1,America TV HD
+http://190.187.192.89:8000/play/a05k/index.m3u8
+#EXTINF:-1,AZ Cinema HD
+http://190.187.192.89:8000/play/a07m/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://168.181.161.24:8000/play/a01i
 #EXTINF:-1,CARTOON NT HD
 http://168.181.161.24:8000/play/a027
 #EXTINF:-1,CINECANAL HD
 http://168.181.161.24:8000/play/a00e
+#EXTINF:-1,Cinemax HD
+http://190.187.192.89:8000/play/a08j/index.m3u8
 #EXTINF:-1,Canal 10 - NIC
 http://168.181.161.24:8000/play/a00a
 #EXTINF:-1,Canal 5 HD
@@ -47,6 +55,8 @@ http://168.181.161.24:8000/play/a02i
 http://168.181.161.24:8000/play/a02j
 #EXTINF:-1,Discovery World HD
 http://168.181.161.24:8000/play/a019
+#EXTINF:-1,Disney HD
+http://190.187.192.89:8000/play/a08h/index.m3u8
 #EXTINF:-1,Disney JR
 http://168.181.161.24:8000/play/a02o
 #EXTINF:-1,E! Entertairment HD
@@ -63,6 +73,8 @@ http://168.181.161.24:8000/play/a011
 http://168.181.161.24:8000/play/a02m
 #EXTINF:-1,Europa HD
 http://168.181.161.24:8000/play/a01p
+#EXTINF:-1,Food Network HD
+http://190.187.192.89:8000/play/a07u/index.m3u8
 #EXTINF:-1,FOX SPORTS 2 HD
 http://168.181.161.24:8000/play/a00m
 #EXTINF:-1,FOX SPORTS 3 HD
@@ -73,14 +85,24 @@ http://168.181.161.24:8000/play/a010
 http://168.181.161.24:8000/play/a01o
 #EXTINF:-1,Film & arts HD
 http://168.181.161.24:8000/play/a01k
+#EXTINF:-1,GOLPERU HD
+http://190.187.192.89:8000/play/a05n/index.m3u8
+#EXTINF:-1,GolTV HD
+http://190.187.192.89:8000/play/a07s/index.m3u8
+#EXTINF:-1,Golden HD
+http://190.187.192.89:8000/play/a05i/index.m3u8
 #EXTINF:-1,Golf Channel HD
 http://168.181.161.24:8000/play/a01u
 #EXTINF:-1,H2
 http://168.181.161.24:8000/play/a02l
+#EXTINF:-1,History 2 HD
+http://190.187.192.89:8000/play/a05s/index.m3u8
 #EXTINF:-1,HBO Family HD
 http://168.181.161.24:8000/play/a02b
 #EXTINF:-1,HBO HD
 http://168.181.161.24:8000/play/a028
+#EXTINF:-1,HBO POP HD
+http://190.187.192.89:8000/play/a07a/index.m3u8
 #EXTINF:-1,HBO Plus HD
 http://168.181.161.24:8000/play/a02a
 #EXTINF:-1,HBO XTREME
@@ -97,6 +119,14 @@ http://168.181.161.24:8000/play/a02e
 http://168.181.161.24:8000/play/a00p
 #EXTINF:-1,Home Garden Latino
 http://168.181.161.24:8000/play/a02n
+#EXTINF:-1,Las Estrellas HD
+http://190.187.192.89:8000/play/a05q/index.m3u8
+#EXTINF:-1,Latina HD
+http://190.187.192.89:8000/play/a05l/index.m3u8
+#EXTINF:-1,Lolly Kids HD
+http://190.187.192.89:8000/play/a07x/index.m3u8
+#EXTINF:-1,Love Nature HD
+http://190.187.192.89:8000/play/a07z/index.m3u8
 #EXTINF:-1,LIFE TIME
 http://168.181.161.24:8000/play/a02p
 #EXTINF:-1,MTV 00s HD
@@ -127,6 +157,10 @@ http://168.181.161.24:8000/play/a01t
 http://168.181.161.24:8000/play/a004
 #EXTINF:-1,Studio Universal HD
 http://168.181.161.24:8000/play/a01h
+#EXTINF:-1,Stingray Concerts HD
+http://190.187.192.89:8000/play/a07t/index.m3u8
+#EXTINF:-1,Sun Channel HD
+http://190.187.192.89:8000/play/a07d/index.m3u8
 #EXTINF:-1,SyFy
 http://168.181.161.24:8000/play/a02u
 #EXTINF:-1,TD+2 HD CR
@@ -135,6 +169,8 @@ http://168.181.161.24:8000/play/a01x
 http://168.181.161.24:8000/play/a01w
 #EXTINF:-1,TLC
 http://168.181.161.24:8000/play/a02h
+#EXTINF:-1,Telenovelas
+http://190.187.192.89:8000/play/a08u/index.m3u8
 #EXTINF:-1,TNT HD
 http://168.181.161.24:8000/play/a00n
 #EXTINF:-1,TNT Series HD
