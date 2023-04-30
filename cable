@@ -55,6 +55,7 @@ http://168.181.161.24:8000/play/a025
 http://168.181.161.24:8000/play/a00r
 #EXTINF:-1,DHE HD
 http://168.181.161.24:8000/play/a01r
+http://204.199.132.195:50000/play/a022/index.m3u8
 #EXTINF:-1,DISC THEATHER HD
 http://168.181.161.24:8000/play/a00o
 #EXTINF:-1,Discovery Channel HD
@@ -171,6 +172,8 @@ http://168.181.161.24:8000/play/a00l
 http://168.181.161.24:8000/play/a016
 #EXTINF:-1,Pasiones HD
 http://168.181.161.24:8000/play/a01a
+#EXTINF:-1, Playboy HD
+http://204.199.132.195:50000/play/a002/index.m3u8
 #EXTINF:-1,SONY HD
 http://168.181.161.24:8000/play/a00d
 #EXTINF:-1,SPACE HD
