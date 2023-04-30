@@ -15,12 +15,30 @@ http://190.187.192.89:8000/play/a05k/index.m3u8
 http://190.187.192.89:8000/play/a07m/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://168.181.161.24:8000/play/a01i
+#EXTINF:-1,10005 ANTENA 3
+http://200.24.151.134:8000/play/a006/index.m3u8
+#EXTINF:-1,10006 A3 SERIES
+http://200.24.151.134:8000/play/a007/index.m3u8
+#EXTINF:-1,10003 CARACOL
+http://200.24.151.134:8000/play/a004/index.m3u8
 #EXTINF:-1,CARTOON NT HD
 http://168.181.161.24:8000/play/a027
 #EXTINF:-1,CINECANAL HD
 http://168.181.161.24:8000/play/a00e
 #EXTINF:-1,Cinemax HD
 http://190.187.192.89:8000/play/a08j/index.m3u8
+#EXTINF:-1,12024 cine premium
+http://200.24.151.134:8000/play/a01d/index.m3u8
+#EXTINF:-1,12025 cine hispano
+http://200.24.151.134:8000/play/a01e/index.m3u8
+#EXTINF:-1,12026 cine familiar
+http://200.24.151.134:8000/play/a01f/index.m3u8
+#EXTINF:-1,12027 cine infantil
+http://200.24.151.134:8000/play/a01g/index.m3u8
+#EXTINF:-1,12030 cine mexicano
+http://200.24.151.134:8000/play/a01o/index.m3u8
+#EXTINF:-1,12033 CINEMA PLATINIUM
+http://200.24.151.134:8000/play/a01u/index.m3u8
 #EXTINF:-1,Canal 10 - NIC
 http://168.181.161.24:8000/play/a00a
 #EXTINF:-1,Canal 5 HD
@@ -69,6 +87,8 @@ http://168.181.161.24:8000/play/a012
 http://168.181.161.24:8000/play/a006
 #EXTINF:-1,ESPN HD
 http://168.181.161.24:8000/play/a011
+#EXTINF:-1,12022 ecuavisa
+http://200.24.151.134:8000/play/a01b/index.m3u8
 #EXTINF:-1,El Gourmet
 http://168.181.161.24:8000/play/a02m
 #EXTINF:-1,Europa HD
@@ -87,6 +107,8 @@ http://168.181.161.24:8000/play/a01o
 http://168.181.161.24:8000/play/a01k
 #EXTINF:-1,GOLPERU HD
 http://190.187.192.89:8000/play/a05n/index.m3u8
+#EXTINF:-1,12005 FUTBOL EC
+http://200.24.151.134:8000/play/a00e/index.m3u8
 #EXTINF:-1,GolTV HD
 http://190.187.192.89:8000/play/a07s/index.m3u8
 #EXTINF:-1,Golden HD
@@ -119,6 +141,8 @@ http://168.181.161.24:8000/play/a02e
 http://168.181.161.24:8000/play/a00p
 #EXTINF:-1,Home Garden Latino
 http://168.181.161.24:8000/play/a02n
+#EXTINF:-1,12015 KANAL DRAMA
+http://200.24.151.134:8000/play/a014/index.m3u8
 #EXTINF:-1,Las Estrellas HD
 http://190.187.192.89:8000/play/a05q/index.m3u8
 #EXTINF:-1,Latina HD
@@ -129,6 +153,10 @@ http://190.187.192.89:8000/play/a07x/index.m3u8
 http://190.187.192.89:8000/play/a07z/index.m3u8
 #EXTINF:-1,LIFE TIME
 http://168.181.161.24:8000/play/a02p
+#EXTINF:-1,10001 MULTIPREMIER HD
+http://200.24.151.134:8000/play/a002/index.m3u8
+#EXTINF:-1,10002 MULTICINEMA
+http://200.24.151.134:8000/play/a003/index.m3u8
 #EXTINF:-1,MTV 00s HD
 http://168.181.161.24:8000/play/a00t
 #EXTINF:-1,MTV HD
@@ -163,12 +191,18 @@ http://190.187.192.89:8000/play/a07t/index.m3u8
 http://190.187.192.89:8000/play/a07d/index.m3u8
 #EXTINF:-1,SyFy
 http://168.181.161.24:8000/play/a02u
+#EXTINF:-1,12021 TVC
+http://200.24.151.134:8000/play/a01a/index.m3u8
+#EXTINF:-1,12023 TC
+http://200.24.151.134:8000/play/a01c/index.m3u8
 #EXTINF:-1,TD+2 HD CR
 http://168.181.161.24:8000/play/a01x
 #EXTINF:-1,TD+HD CR
 http://168.181.161.24:8000/play/a01w
 #EXTINF:-1,TLC
 http://168.181.161.24:8000/play/a02h
+#EXTINF:-1,12059  TELEAMAZONAS
+http://200.24.151.134:8000/play/a01p/index.m3u8
 #EXTINF:-1,Telenovelas
 http://190.187.192.89:8000/play/a08u/index.m3u8
 #EXTINF:-1,TNT HD
