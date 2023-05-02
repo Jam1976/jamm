@@ -7,18 +7,26 @@ http://168.181.161.24:8000/play/a01m
 http://168.181.161.24:8000/play/a007
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS58ixR_sjMcZhkDNb-l-u38y56A6KprnPx9Fc5xU99F7mvLtExLr2LV9Ztxuo_6lzyLs&usqp=CAU",AZ click HD
 http://168.181.161.24:8000/play/a01s
+#EXTINF:-1,ATLAS
+http://45.181.122.169:8000/play/a03w
 #EXTINF:-1,ATV
 http://190.187.192.89:8000/play/a08d/index.m3u8
 #EXTINF:-1,America TV HD
 http://190.187.192.89:8000/play/a05k/index.m3u8
 #EXTINF:-1,AZ Cinema HD
 http://190.187.192.89:8000/play/a07m/index.m3u8
+#EXTINF:-1,ANIMOTION
+http://45.181.122.169:8000/play/a02g
 #EXTINF:-1,Animal Planet HD
 http://168.181.161.24:8000/play/a01i
 #EXTINF:-1,10005 ANTENA 3
 http://200.24.151.134:8000/play/a006/index.m3u8
 #EXTINF:-1,10006 A3 SERIES
 http://200.24.151.134:8000/play/a007/index.m3u8
+#EXTINF:-1,B Y N
+http://45.181.122.169:8000/play/a03o
+#EXTINF:-1,BIO BIO TV
+http://45.181.122.169:8000/play/a03j
 #EXTINF:-1,10003 CARACOL
 http://200.24.151.134:8000/play/a004/index.m3u8
 #EXTINF:-1,CARTOON NT HD
@@ -53,6 +61,10 @@ http://168.181.161.24:8000/play/a024
 http://168.181.161.24:8000/play/a025
 #EXTINF:-1,Comedy Central HD
 http://168.181.161.24:8000/play/a00r
+#EXTINF:-1,DOS KIDS
+http://45.181.122.169:8000/play/a02t
+#EXTINF:-1,DW
+http://45.181.122.169:8000/play/a03v
 #EXTINF:-1,DHE HD
 http://168.181.161.24:8000/play/a01r
 http://204.199.132.195:50000/play/a022/index.m3u8
@@ -96,6 +108,12 @@ http://168.181.161.24:8000/play/a02m
 http://168.181.161.24:8000/play/a01p
 #EXTINF:-1,Food Network HD
 http://190.187.192.89:8000/play/a07u/index.m3u8
+#EXTINF:-1,FMH Family
+http://45.181.122.169:8000/play/a02i
+#EXTINF:-1,FMH Kids
+http://45.181.122.169:8000/play/a02j
+#EXTINF:-1,FMH Movie
+http://45.181.122.169:8000/play/a02k
 #EXTINF:-1,FOX SPORTS 2 HD
 http://168.181.161.24:8000/play/a00m
 #EXTINF:-1,FOX SPORTS 3 HD
@@ -158,6 +176,16 @@ http://168.181.161.24:8000/play/a02p
 http://200.24.151.134:8000/play/a002/index.m3u8
 #EXTINF:-1,10002 MULTICINEMA
 http://200.24.151.134:8000/play/a003/index.m3u8
+#EXTINF:-1,MX Classic
+http://45.181.122.169:8000/play/a02v
+#EXTINF:-1,MX Family
+http://45.181.122.169:8000/play/a02w
+#EXTINF:-1,MX OLD
+http://45.181.122.169:8000/play/a02p
+#EXTINF:-1,MX Prime
+http://45.181.122.169:8000/play/a02u
+#EXTINF:-1,MX Series
+http://45.181.122.169:8000/play/a03n
 #EXTINF:-1,MTV 00s HD
 http://168.181.161.24:8000/play/a00t
 #EXTINF:-1,MTV HD
@@ -174,6 +202,8 @@ http://168.181.161.24:8000/play/a016
 http://168.181.161.24:8000/play/a01a
 #EXTINF:-1, Playboy HD
 http://204.199.132.195:50000/play/a002/index.m3u8
+#EXTINF:-1,REWIND
+http://45.181.122.169:8000/play/a02m
 #EXTINF:-1,SONY HD
 http://168.181.161.24:8000/play/a00d
 #EXTINF:-1,SPACE HD
