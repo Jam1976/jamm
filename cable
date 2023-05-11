@@ -14,7 +14,7 @@ http://190.187.192.89:8000/play/a08d/index.m3u8
 #EXTINF:-1,America TV HD
 http://190.187.192.89:8000/play/a05k/index.m3u8
 #EXTINF:-1,AZ Cinema HD
-http://190.187.192.89:8000/play/a07m/index.m3u8
+http://168.90.13.163:8000/play/a01k
 #EXTINF:-1,ANIMOTION
 http://45.181.122.169:8000/play/a02g
 #EXTINF:-1,Animal Planet HD
@@ -33,6 +33,8 @@ http://200.24.151.134:8000/play/a004/index.m3u8
 http://168.181.161.24:8000/play/a027
 #EXTINF:-1,CINECANAL HD
 http://168.181.161.24:8000/play/a00e
+#EXTINF:-1,Cinecanal HD OP2
+http://168.90.13.163:8000/play/a01d
 #EXTINF:-1,Cinemax HD
 http://190.187.192.89:8000/play/a08j/index.m3u8
 #EXTINF:-1,12024 cine premium
@@ -61,6 +63,8 @@ http://168.181.161.24:8000/play/a024
 http://168.181.161.24:8000/play/a025
 #EXTINF:-1,Comedy Central HD
 http://168.181.161.24:8000/play/a00r
+#EXTINF:-1,DE PELICULA 
+http://168.90.13.163:8000/play/a02t
 #EXTINF:-1,DOS KIDS
 http://45.181.122.169:8000/play/a02t
 #EXTINF:-1,DW
@@ -137,7 +141,7 @@ http://168.181.161.24:8000/play/a01u
 #EXTINF:-1,H2
 http://168.181.161.24:8000/play/a02l
 #EXTINF:-1,History 2 HD
-http://190.187.192.89:8000/play/a05s/index.m3u8
+http://168.90.13.163:8000/play/a01x
 #EXTINF:-1,HBO Family HD
 http://168.181.161.24:8000/play/a02b
 #EXTINF:-1,HBO HD
@@ -163,13 +167,13 @@ http://168.181.161.24:8000/play/a02n
 #EXTINF:-1,12015 KANAL DRAMA
 http://200.24.151.134:8000/play/a014/index.m3u8
 #EXTINF:-1,Las Estrellas HD
-http://190.187.192.89:8000/play/a05q/index.m3u8
+http://168.90.13.163:8000/play/a01t
 #EXTINF:-1,Latina HD
 http://190.187.192.89:8000/play/a05l/index.m3u8
 #EXTINF:-1,Lolly Kids HD
-http://190.187.192.89:8000/play/a07x/index.m3u8
+http://168.90.13.163:8000/play/a01o
 #EXTINF:-1,Love Nature HD
-http://190.187.192.89:8000/play/a07z/index.m3u8
+http://168.90.13.163:8000/play/a02c
 #EXTINF:-1,LIFE TIME
 http://168.181.161.24:8000/play/a02p
 #EXTINF:-1,10001 MULTIPREMIER HD
@@ -196,12 +200,16 @@ http://168.181.161.24:8000/play/a00s
 http://168.181.161.24:8000/play/a015
 #EXTINF:-1,Nick SIM HD
 http://168.181.161.24:8000/play/a00l
+#EXTINF:-1,Paramount HD OP2
+http://168.90.13.163:8000/play/a01h
 #EXTINF:-1,Paramount HD
 http://168.181.161.24:8000/play/a016
 #EXTINF:-1,Pasiones HD
 http://168.181.161.24:8000/play/a01a
 #EXTINF:-1, Playboy HD
 http://204.199.132.195:50000/play/a002/index.m3u8
+#EXTINF:-1,RCN HD
+http://168.90.13.163:8000/play/a03o
 #EXTINF:-1,REWIND
 http://45.181.122.169:8000/play/a02m
 #EXTINF:-1,SONY HD
@@ -237,7 +245,7 @@ http://168.181.161.24:8000/play/a02h
 #EXTINF:-1,12059  TELEAMAZONAS
 http://200.24.151.134:8000/play/a01p/index.m3u8
 #EXTINF:-1,Telenovelas
-http://190.187.192.89:8000/play/a08u/index.m3u8
+http://168.90.13.163:8000/play/a020
 #EXTINF:-1,TNT HD
 http://168.181.161.24:8000/play/a00n
 #EXTINF:-1,TNT Series HD
