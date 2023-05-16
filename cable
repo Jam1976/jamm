@@ -36,7 +36,7 @@ http://168.181.161.24:8000/play/a00e
 #EXTINF:-1,Cinecanal HD OP2
 http://168.90.13.163:8000/play/a01d
 #EXTINF:-1,Cinemax HD
-http://190.187.192.89:8000/play/a08j/index.m3u8
+http://191.98.171.198:4000/play/a01g/index.m3u8
 #EXTINF:-1,12024 cine premium
 http://200.24.151.134:8000/play/a01d/index.m3u8
 #EXTINF:-1,12025 cine hispano
@@ -87,7 +87,7 @@ http://168.181.161.24:8000/play/a01z
 #EXTINF:-1,Discovery Science
 http://168.181.161.24:8000/play/a02i
 #EXTINF:-1,Discovery Turbo
-http://168.181.161.24:8000/play/a02j
+http://191.98.171.198:4000/play/a01m/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://168.181.161.24:8000/play/a019
 #EXTINF:-1,Disney HD
@@ -240,6 +240,9 @@ http://200.24.151.134:8000/play/a01c/index.m3u8
 http://168.181.161.24:8000/play/a01x
 #EXTINF:-1,TD+HD CR
 http://168.181.161.24:8000/play/a01w
+#EXTINF:-1,TBS
+
+http://191.98.171.198:4000/play/a016/index.m3u8
 #EXTINF:-1,TLC
 http://168.181.161.24:8000/play/a02h
 #EXTINF:-1,12059  TELEAMAZONAS
